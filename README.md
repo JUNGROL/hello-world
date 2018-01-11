@@ -1,4 +1,3 @@
 # hello-world
 Ma First repository
-
-Updated
+update resolved
